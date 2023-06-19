@@ -1,0 +1,11 @@
+BIF projekt, 2022/2023, Jan Bíl, xbilja00, Rekonstrukce mezer v ancestrálních sekvencích
+
+Výsledkem projektu je skript xbilja00.py, který načte potřebná a doplní mezery v ancestrálních sekvencích.
+Výsledek uloží do přislušných souborů ve složce out, která je přiložena k řešení. 
+
+Jsou obsaženy tyto soubory:
+xbilja00.py - výsledný skript
+out - složka s výstupy
+    node_63.fas - jednotlivé soubory s ancestrálními sekvencemi včetně doplněných mezer
+    ...
+readme - tento soubor
